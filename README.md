@@ -7,6 +7,9 @@ It's an RP2040 devboard, which I hope to use for other projects. This was define
 Looking forward to the next project, which is hopefully more complex!
 I also labeled each pin, as my past use of devboards in class has required a lot of referencing the design spec, which I hope to cut down here.
 
+Schematic:
+<img width="1551" height="1077" alt="image" src="https://github.com/user-attachments/assets/785d0876-f19b-4513-978a-0f2f5b2d0676" />
+
 Design:
 <img width="597" height="865" alt="image" src="https://github.com/user-attachments/assets/01d9afd8-dafc-4c83-a679-495c6c0afaa9" />
 
