@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "prod/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Devboard.step",
       "svg": "",
       "vrml": ""
     },
