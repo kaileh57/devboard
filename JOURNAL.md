@@ -28,3 +28,11 @@ Made some minor tweaks and did all the silkscreening, plus the hell that is JLCP
 
 Everything SHOULD be ready to order (i hope), and its time to move on to bigger and better things!
 Things that just might be powered by this devboard...
+
+# 12/8/25 Added LEDs!
+To make the project a bit more unique, I added 4 LEDs! The LEDs are attached to GPIO pins 14-17, and are designed for that voltage (3.3v).
+These LEDs can either be a fun blinker for data flow, or an actual built in programmable status LED, and wait, there's four!!
+
+<img width="1353" height="944" alt="image" src="https://github.com/user-attachments/assets/60a8b004-cb96-4e4a-a995-7dabf0d44c31" />
+<img width="530" height="257" alt="image" src="https://github.com/user-attachments/assets/e67f0299-60aa-4a5a-9193-03cb9a8b43db" />
+<img width="532" height="230" alt="image" src="https://github.com/user-attachments/assets/62c4e4ef-dfdf-4097-b133-60f0bd1d9c78" />
